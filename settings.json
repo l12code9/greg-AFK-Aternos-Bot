@@ -2,13 +2,13 @@
   "name": "greg",
   "bot-account": {
     "username": "gregbot12",
-    "password": "",
+    "password": "11300327",
     "type": "offline"
   },
   "server": {
     "ip": "ranger-smp.aternos.me",
     "port": 56069,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "this is the best smp ever",
+        "Subscribe to l12code9!",
       ]
     },
     "chat-log": true,
