@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "gregbot12",
     "password": "11300327",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "ranger-smp.aternos.me",
